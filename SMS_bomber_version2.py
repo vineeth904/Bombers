@@ -51,4 +51,4 @@ def send(num, counter, slep):
             time.sleep(slep)        
 
 banner()
-send(input("Enter Target Number : "), input("Enter Number of Messages : "), 1)
+send(input("Enter Target Number : 7034435692 "), input("Enter Number of Messages : 10 "), 1)
